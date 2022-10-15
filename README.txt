@@ -1,0 +1,7 @@
+Abstract
+Introduction
+Theory
+Methodology
+Analysis
+Discussion
+Conclusion or summary
