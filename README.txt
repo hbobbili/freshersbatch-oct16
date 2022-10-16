@@ -1,6 +1,6 @@
-Abstract
+The Abstract
 Introduction
-Theory
+The Theory
 Methodology
 Analysis
 Discussion
