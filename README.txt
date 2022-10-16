@@ -1,4 +1,4 @@
-Abstract
+The Abstract
 Introduction
 Theory
 Methodology
